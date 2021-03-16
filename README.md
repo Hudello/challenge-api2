@@ -15,7 +15,7 @@ Welcome to our intermediate API coding challenge. In this exercise, you'll creat
 
 [Considerations](https://restfulapi.net)
 
-# Notes
+## Notes
 To fetch HTML pages and process DOMs, feel free to use any packages/libraries to accomplish the task. Here are some popular ones:
 - [axios](https://github.com/axios/axios)
 - [jsdom](https://github.com/jsdom/jsdom)
