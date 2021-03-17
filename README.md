@@ -13,7 +13,7 @@ Welcome to our intermediate API coding challenge. In this exercise, you'll creat
     - Create a new API endpoint or overload the same endpoint from step 1 to accept either the reference `id` or the `url` and return the result as JSON.
     - If the data is still being fetched/processed, return an appropriate REST response instead.
 
-[Considerations](https://restfulapi.net)
+Some [considerations](https://restfulapi.net) when designing the API.
 
 ## Notes
 To fetch HTML pages and process DOMs, feel free to use any packages/libraries to accomplish the task. Here are some popular ones:
